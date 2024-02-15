@@ -7,3 +7,5 @@ The data set is available [on Git Hub](https://allisonhorst.github.io/palmerpeng
 
 ![penguins hexagon](https://allisonhorst.github.io/palmerpenguins/logo.png)
 
+<p align ="center"><img src="https://allisonhorst.github.io/palmerpenguins/logo.png" /></p>
+
