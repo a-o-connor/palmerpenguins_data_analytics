@@ -18,13 +18,23 @@ To get started with this project, you can open the notebook in Google Colab by c
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 \
-The notebook is written in Python. A number of statistics libraries are used ithroughout the notebook for data manipulation, visualisation and analysis:
+The notebook is written in Python. A number of statistics libraries are used throughout the notebook for data manipulation, visualisation and analysis:
 - [NumPy](https://numpy.org/doc/stable/index.html) 
 - [Pandas](https://pandas.pydata.org/)
 - [SciPy](https://scipy.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/) 
-The notebook contains 
-1. Overview of the data frame 
-2. Exploratory data analysis
-3. Analysis of the correlations within the data
+
+Overview of notebook contents: 
+1. Overview of the Data 
+    - The first section of the notebook contains an overview of the data contained in the Palmer Penguins data set. 
+    - An interpretation of the types of variables within the data frame is included in this section. 
+2. Exploratory Data Analysis
+    - The second section of the notebook includes exploratory data analysis of the Palmer Penguins data.
+    - Exploratory data analysis is a useful first step in any data analysis project in order to get an overview of what is happening in your data set, to identify anomalies in the data set and to ensure that no data has been input incorrectly.  
+    - Histograms of each the numeric variables in the data frame were made in order to visualise and explore the distribution of each of the variables. 
+    - Bar charts and box plots were plotted to explore the differences in penguin attributes between species.
+3. Correlations
+    - The third section of the notebook contains an analysis of the correlations within the data set. 
+    - Linear regression fitting was used to explore the correlation between flipper length and body mass. 
+    - A oneway ANOVA was used to analyse the correlation between body mass and sex, to determine whether a statistically significannt difference in group means could be identified. 
