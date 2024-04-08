@@ -1,5 +1,5 @@
 # An Analysis of the Palmer Penguins Data Set
-## Principles of Data Analytics: My work
+## Principles of Data Analytics
 **By A. O'Connor**
 *********
 <p align ="center"><img src="https://allisonhorst.github.io/palmerpenguins/logo.png" /></p>
@@ -17,4 +17,13 @@ To get started with this project, you can open the notebook in Google Colab by c
 <a target="_blank" href="https://colab.research.google.com/github/a-o-connor/palmerpenguins_data_analytics/blob/main/palmerpenguinsanalysis.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
+The notebook is written in Python. A number of statistics libraries are used ithroughout the notebook for data manipulation, visualisation and analysis:
+- [NumPy](https://numpy.org/doc/stable/index.html) 
+- [Pandas](https://pandas.pydata.org/)
+- [SciPy](https://scipy.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/) 
+The notebook contains 
+1. Overview of the data frame 
+2. Exploratory data analysis
+3. Analysis of the correlations within the data
