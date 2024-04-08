@@ -36,5 +36,5 @@ Overview of notebook contents:
     - Bar charts and box plots were plotted to explore the differences in penguin attributes between species.
 3. Correlations
     - The third section of the notebook contains an analysis of the correlations within the data set. 
-    - Linear regression fitting was used to explore the correlation between flipper length and body mass. 
+    - Bivariate linear regression was used to explore the relationship between flipper length and body mass. 
     - A oneway ANOVA was used to analyse the correlation between body mass and sex, to determine whether a statistically significannt difference in group means could be identified. 
