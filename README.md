@@ -18,14 +18,14 @@ To get started with this project, you can open the notebook in Google Colab by c
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 \
-The notebook is written in Python. A number of statistics libraries are used throughout the notebook for data manipulation, visualisation and analysis:
+The notebook is written in Python. A number of statistics modules are used throughout the notebook for data manipulation, visualisation and analysis:
 - [NumPy](https://numpy.org/doc/stable/index.html) 
 - [Pandas](https://pandas.pydata.org/)
 - [SciPy](https://scipy.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/) 
 
-Overview of notebook contents: 
+**Overview of notebook contents:**
 1. Overview of the Data 
     - The first section of the notebook contains an overview of the data contained in the Palmer Penguins data set. 
     - An interpretation of the types of variables within the data frame is included in this section. 
