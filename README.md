@@ -30,8 +30,7 @@ The notebook is written in Python. A number of statistics modules are used throu
     - The first section of the notebook contains an overview of the data contained in the Palmer Penguins data set. 
     - An interpretation of the types of variables within the data frame is included in this section. 
 2. Exploratory Data Analysis
-    - The second section of the notebook includes exploratory data analysis of the Palmer Penguins data.
-    - Exploratory data analysis is a useful first step in any data analysis project in order to get an overview of what is happening in your data set, to identify anomalies in the data set and to ensure that no data has been input incorrectly.  
+    - The second section of the notebook includes exploratory data analysis of the Palmer Penguins data, in order to get an overview of the data, to identify anomalies and ensure the data set has been loaded in correctly. 
     - Histograms of each the numeric variables in the data frame were made in order to visualise and explore the distribution of each of the variables. 
     - Bar charts and box plots were plotted to explore the differences in penguin attributes between species.
 3. Correlations
